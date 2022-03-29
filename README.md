@@ -1,4 +1,5 @@
 # school
-School related files
-Changes local
+School related files\n
+Changes local\n
+Local
 
