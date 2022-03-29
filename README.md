@@ -1,5 +1,3 @@
 # school
-School related files
-Changes local
-Local
-
+**School related files**
+Computed styles
